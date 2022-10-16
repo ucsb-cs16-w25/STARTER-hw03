@@ -30,3 +30,27 @@
 *.exe
 *.out
 *.app
+=======
+# Executables specific to this assignment
+
+arrayToStringTest
+arrayBoundsDemo
+countEvensTest
+minOfArrayTest
+minOfArrayErrorTest
+countPrimesTest
+maxOfArrayTest
+maxOfArrayErrorTest
+sumOddsTest
+sumOfArrayTest
+utilityTest
+
+# Emacs backup files
+
+*~
+
+# Vim swap files
+
+*.swo
+*.swp
+
