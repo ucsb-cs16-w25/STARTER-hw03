@@ -1,6 +1,6 @@
 /*
 / arrayBoundsDemo.cpp for CS16, UCSB
-/ Copyright © 2017 by Diba Mirza, Ziad Matni, Phillip Conrad.
+/ Copyright © Phillip Conrad, Diba Mirza, Ziad Matni.
 / All rights reserved.
 / Inspired by an assignment by P.Conrad at UCSB
 /
