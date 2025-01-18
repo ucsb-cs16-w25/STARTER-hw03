@@ -1,3 +1,3 @@
-# STARTER-gsa03
+# STARTER-hw03
 
-https://ucsb-cs16.github.io/w24/gsa03/
+https://iris.csedu.cs.ucsb.edu/page/cs16-hw/hw3-odds-and-primes
